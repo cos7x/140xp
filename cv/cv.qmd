@@ -23,10 +23,49 @@ csl: apa-cv.csl
 ---
 
 # Education
+**University of California, Los Angeles** \hfill Los Angeles, CA \newline
+*Bachelor of Science in Statistics and Data Science* \hfill Sep. 2023 – Jun. 2025 \newline
+Cumulative GPA: 3.99/4.0; Major GPA: 4.0/4.0; Dean’s Honors List (2023 Fall, 2024 Spring) \newline
+**University of California, Santa Barbara** \hfill Santa Barbara, CA \newline
+*Double Major in Statistics and Data Science and Applied Mathematics* \hfill Sep. 2021 – Jun. 2023 \newline
+Cumulative GPA: 3.98/4.0; Dean’s Honors List (2022 Winter, 2023 Winter, 2023 Spring) \newline
+
+# Research
+**A Format-Character Cooperative Recognition Method for Ancient Chinese Books** \hfill Remote \newline
+*Research Assistant, Supervisor: Prof. Shijun Liu, Shandong University* \hfill Jun. 2024 - Present \newline
+- Developed a computer-aided collaborative text recognition algorithm specifically designed for the digitization of Chinese ancient books. \newline
+- Implemented DP-LinkNet architecture for adaptive binarization to enhance text clarity and reduce image noise in degraded ancient texts. \newline
+- Employed a "character-based column determination" strategy alongside the DBNet detection algorithm to accurately identify text regions and exclude non-text elements during layout analysis. \newline
+- Applied SVTR LCNet model combining CNN and sparse Transformer for efficient text recognition in resource-constrained environments. \newline
+- Conducted experiments that showed significant improvements in character integrity, recognition accuracy, and processing speed compared to conventional methods. \newline
+**Simulate Seismic Wave Propagation in Complex Geological Media** \hfill Los Angeles, CA \newline
+*Research Assistant, Supervisor: Prof. Lingsen Meng, UCLA* \hfill Mar. 2024 - Present \newline
+- Reproduced and adjusted models as the baseline from five research papers related to seismic wave simulation using PINN and neuro operators. \newline
+- Participated in weekly meetings to discuss project progress and contributed to innovative optimizations. \newline
+**Reservoir Digital Twin and Flood Intelligent Decision Analysis Platform** \hfill Jinan, China \newline
+*Research Assistant, Supervisor: Prof. Shijun Liu, Shandong University Collaborative Project* \hfill Mar. 2023 - Sep. 2023 \newline
+- Constructed the flood prediction model by implementing the linear & cubic interpolation and the flood hydrograph scaling method. \newline
+- Conducted error analysis using various statistical measures, including Root Mean Square Error (RMSE), Mean Absolute Error (MAE), Euclidean Distance, and Manhattan Distance. \newline
+Optimized database tables, reduced algorithmic loops, and utilized Flask to enhance performance, reducing runtime to 100ms and improving efficiency by 10 times. \newline
+**Shandong Big Data Research Association** \hfill Jinan, China \newline
+*Research Analyst, Supervisor: Prof. Yufeng Shi* \hfill Jun. 2021-Dec. 2021 \newline
+- Contributed to the development of a comprehensive credit evaluation model tailored for tech SMEs. \newline
+- Assisted in constructing the indicator system with 110 third-level indicators, which are designed to comprehensively measure all aspects of SMEs. \newline
 
 # Employment
+**SAS Software Co., Ltd** \hfill Shanghai, China \newline
+*Analytics Intern, Product Service Delivery* \hfill Jul. 2024 – Aug. 2024 \newline
+- Participated in a project for model asset lifecycle and risk management with ICBC. \newline
+- Assisted in creating a prototype of the model management platform using Axure. \newline
+- Compiled machine learning algorithm parameters from SAS ML Viya into a presentation. \newline
+**Jinan Allview Information Technology Co. LTD** \hfill Jinan, China \newline
+*VR software development Intern* \hfill Jul. 2022 - Aug. 2022 \newline
+- Refined and debugged the “Stored Incident” scene, and resolved challenging issues in data modeling and 3D scene rendering capability. \newline
+- Ensured the accuracy of physical parameters and the stability of the model by testing with AR. \newline
 
 # Skills
+Languages: English (fluent), Chinese (native) \newline
+Technical skills: Proficient in R, Java, Python, SQL, Adobe Creative Suite (Audition, Photoshop)
 
 
 
