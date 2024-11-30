@@ -46,7 +46,7 @@ Cumulative GPA: 3.98/4.0; Dean’s Honors List (2022 Winter, 2023 Winter, 2023 S
 *Research Assistant, Supervisor: Prof. Shijun Liu, Shandong University Collaborative Project* \hfill Mar. 2023 - Sep. 2023 \newline
 - Constructed the flood prediction model by implementing the linear & cubic interpolation and the flood hydrograph scaling method. \newline
 - Conducted error analysis using various statistical measures, including Root Mean Square Error (RMSE), Mean Absolute Error (MAE), Euclidean Distance, and Manhattan Distance. \newline
-Optimized database tables, reduced algorithmic loops, and utilized Flask to enhance performance, reducing runtime to 100ms and improving efficiency by 10 times. \newline
+- Optimized database tables, reduced algorithmic loops, and utilized Flask to enhance performance, reducing runtime to 100ms and improving efficiency by 10 times. \newline
 **Shandong Big Data Research Association** \hfill Jinan, China \newline
 *Research Analyst, Supervisor: Prof. Yufeng Shi* \hfill Jun. 2021-Dec. 2021 \newline
 - Contributed to the development of a comprehensive credit evaluation model tailored for tech SMEs. \newline
@@ -62,6 +62,17 @@ Optimized database tables, reduced algorithmic loops, and utilized Flask to enha
 *VR software development Intern* \hfill Jul. 2022 - Aug. 2022 \newline
 - Refined and debugged the “Stored Incident” scene, and resolved challenging issues in data modeling and 3D scene rendering capability. \newline
 - Ensured the accuracy of physical parameters and the stability of the model by testing with AR. \newline
+
+# Projects
+**Boost or Rest: How Caffeine and Sleep Influence Problem-Solving** \hfill Jun. 2024\newline
+- Designed and implemented a Two-Way Randomized Block Study to evaluate the effects of caffeine intake and nap duration on cognitive problem-solving abilities. \newline
+- Conducted data collection and preprocessing, utilizing ANOVA, interaction plots, and Tukey HSD tests to analyze significant effects and interactions. \newline
+- Key findings included a statistically significant impact of longer nap durations on problem-solving scores, with caffeine levels showing no substantial influence. \newline
+- Validated model assumptions through residual analysis and QQ plots, ensuring statistical rigor. \newline
+**Data Analysis of Life Expectancy in 2007** \hfill Feb. 2024 \newline
+- Developed and optimized multiple linear regression models to analyze WHO data, identifying key factors like BMI and Hepatitis B vaccination affecting life expectancy. \newline
+- Improved model performance by applying transformations and subset selection, increasing adjusted R^2 from 0.40 to 0.49, while addressing multicollinearity and validating assumptions. \newline
+
 
 # Skills
 Languages: English (fluent), Chinese (native) \newline
