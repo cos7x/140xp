@@ -12,10 +12,10 @@ fontsize: 11pt
 #mainfont: Ubuntu # if you want to use a different locally installed font
 #CJKmainfont: Noto Sans CJK JP # locally installed Asian character font, must use with xelatex
 github: cos7x # github account
+web: https://xianya406178735.netlify.app
 #orcid: 0000-0002-1825-0097 # orcid identifier
 #osf: ymqui # osf five character id
 #twitter: twitter # twitter handle
-website: https://xianya406178735.netlify.app/
 fontawesome: yes
 nocite: '@*'
 validate-yaml: false
